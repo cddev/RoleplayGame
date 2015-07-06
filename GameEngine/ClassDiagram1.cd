@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameEngine.Equipe">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICACAAACAAAAAEAEAIgAAAAAAACAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Equipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine.Arme">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Arme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine.Hero">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine.Monstre">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monstre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine.Personnage">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAgAAEAAoAAAAAABAIAAAAAQAIAEBAAEA=</HashCode>
+      <FileName>Personnage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine.Epee">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Epee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine.Gourdin">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gourdin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine.AdversaireKilledEventArgs">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdversaireKilledEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine.AdversaireMeetEventArgs">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>AdversaireMeetEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine.AttackEventArgs">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>AttackEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine.WinningEventArgrs">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WinningEventArgrs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
